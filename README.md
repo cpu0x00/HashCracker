@@ -1,0 +1,4 @@
+# HashCracker
+
+simple hash cracker
+

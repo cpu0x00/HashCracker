@@ -16,3 +16,4 @@ sha-512crypt: $6$8jUqZFuinvUd.1uN$JXWt3HIsOaJWkxxubL3GHCZYY.wV9ng9fc0wCESEYOv1oH
 
 - the crypt cracking capabilities is wrote in cython for performance improvments but you can still review the source code from (CryptHash.pyx) file
 
+- shared library to support python3.10 for the crypt functionality added
